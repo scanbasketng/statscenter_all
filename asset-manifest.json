@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/statscenter_all/static/css/main.3fda433d.css",
+    "main.js": "/statscenter_all/static/js/main.af251515.js",
+    "index.html": "/statscenter_all/index.html",
+    "main.3fda433d.css.map": "/statscenter_all/static/css/main.3fda433d.css.map",
+    "main.af251515.js.map": "/statscenter_all/static/js/main.af251515.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fda433d.css",
+    "static/js/main.af251515.js"
+  ]
+}
